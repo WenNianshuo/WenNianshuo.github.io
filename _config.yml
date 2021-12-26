@@ -22,13 +22,13 @@ kramdown:
   gfm_quirks: [paragraph_end]
 
 
-title: Monos
-email: ejjoo7994@gmail.com
+title: 曼都语
+email: 1565408369@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  深陷回溯的幻想之夜
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ejjoo
+github_username: WenNianshuo
 highlighter: rouge
 svg:
   optimize: true
