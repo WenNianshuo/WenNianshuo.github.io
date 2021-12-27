@@ -3,6 +3,8 @@ layout: page
 title: 欢迎来到曼都世界
 permalink: /about/
 ---
+Maispana te Teslo Mandis
+
 ## 曼都语的基本信息
 
 曼都语（Temba Mandis）是曼都共和国（Gufkunia Mandis）的官方语言，已有三千余年的历史。
