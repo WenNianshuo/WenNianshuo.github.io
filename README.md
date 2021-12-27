@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About
+title: 欢迎来到曼都世界
 permalink: /about/
 ---
----
-layout: page
-title: 欢迎来到曼都世界
-permanlink: /about/
----
-
 ## 曼都语的基本信息
 
 曼都语（Temba Mandis）是曼都共和国（Gufkunia Mandis）的官方语言，已有三千余年的历史。
