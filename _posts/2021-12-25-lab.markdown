@@ -23,7 +23,7 @@ some
 ```
 tips
 ```
-<table border="1">
+<table border="2">
     <tr>
         <td>a</td>
         <td>b</td>
