@@ -31,7 +31,7 @@ Maispana te Teslo Mandis
 
 曼都语的发展比较“割裂”——也就是说，不同时期曼都语的形态迥异，今人不经过专门学习是很难读懂前代语言的。老实说，这可与当初阿诺神团希望的“万世不变”相去甚远，倒是合了滕达的心思。
 
-曼都语的发展大致可以分为三个大阶段：古典曼都语（Temba Mandis Antina/Klax 造语元年~12世纪）、中古曼都语（Temba Mandis Sen-antina/Senklax, 12~25世纪）以及现代曼都语（Temba Mandis Noina, 25世纪~今）。
+曼都语的发展大致可以分为三个大阶段：古典曼都语（Temba Mandis Antina/ Klax 造语元年~12世纪）、中古曼都语（Temba Mandis Sen-antina/ Senklax, 12~25世纪）以及现代曼都语（Temba Mandis Noina, 25世纪~今）。
 
 古典曼都语直接由滕达创造，保留有大量的黏着式语法，同时设定了许多细微的概念，比如永恒时态、使役语态、形容词活用等。
 
